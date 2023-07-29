@@ -1,6 +1,6 @@
 # TechFinna - Cracking the Code, Unleashing the Geek 🚀
 
-![TechFinna Logo](link-to-logo.png)
+![TechFinna Logo](https://github.com/TechFinna/.github/blob/main/profile/Asset%209.png)
 
 ```python
 print("Hello, World! Welcome to TechFinna - Where Geeks Reign Supreme 🤓👑")
@@ -11,7 +11,7 @@ print("Hello, World! Welcome to TechFinna - Where Geeks Reign Supreme 🤓👑")
 TechFinna, also known as "Tech Finna," is the celestial realm where coding whizzes and tech aficionados unite to create digital wonders! As developers ourselves, we speak the language of Python, JavaScript, and all things programming. We're not just a company; we're a community of tech enthusiasts passionate about unraveling the secrets of code.
 
 ```javascript
-// TechFinna - Cracking the Code Since [Year]
+// TechFinna - Cracking the Code Since [2023]
 console.log("Let's TechFinna-ize Your Projects!");
 ```
 
