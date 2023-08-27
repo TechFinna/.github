@@ -65,7 +65,7 @@ def live_to_code():
 
 Ready to embark on your coding odyssey? Connect with TechFinna and let's weave lines of code that shape the digital future together.
 
-- 🌐 [techfinna.com](https://www.techfinna.com)
+- 🌐 [techfinna.com](https://techfinna.com)
 - 📧 info@techfinna.com
 
 ---
